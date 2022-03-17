@@ -1,0 +1,316 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+.all{
+    max-width: 1340px;
+    min-width: 1340px;
+}
+header{
+    width: 1340px;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+nav ul li{
+    list-style: none;
+    display: inline;
+    margin-right: 40px;
+}
+nav ul li img{
+    margin-right: 100px;
+}
+.mariela{
+    margin-left: 113px;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 24px;
+    color:#B08EAD;
+    font-family: Cormorant Garamond, serif;
+}
+
+.container{
+    width: 1340px;
+    height: 817px;
+    position:relative;
+}
+
+.first{
+    width: 1340px;
+    height: 458px;
+    background-color: #C9ADC6;
+    border-radius: 0;
+}
+
+.second{
+    width: 1340px;
+    height: 359px;
+    background: #D6BBD3;
+    border-radius: 0;
+}
+.pillow{
+    position:absolute;
+    top: 72px;
+    left:178px
+}
+
+.rectangle{
+    position: absolute;
+    top: 182px;
+    right: 113px;
+}
+
+.new{
+    position: absolute;
+    top: 306px;
+    left: 842px;
+    color: white;
+    font-family: Roboto, serif;
+    font-size: 14px;
+}
+
+.spring{
+    position: absolute;
+    top: 346px;
+    left: 842px;
+    color: white;
+    font-family: Cormorant Garamond, serif;
+    font-size: 45px;
+    margin: 0;
+}
+
+.buy{
+    position: absolute;
+    bottom: 309px;
+    left: 842px;
+    font-family: Roboto, serif;
+    color: white;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 70px;
+    margin-bottom: 64px;
+}
+
+.designer{
+    font-family: Roboto, serif;
+    color: #B99BB6;
+    font-size: 14px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.california{
+    font-family: Cormorant Garamond, serif;
+    font-size: 26px;
+    color: #5F4D5D;
+}
+
+.learn{
+    width: 141px;
+    height: 45px;
+    border: 1px solid #B99BB6;
+    box-sizing: border-box;
+    border-radius: 25px;
+    background-color: transparent;
+}
+
+.learn a{
+    font-family: Roboto, serif;
+    text-transform: uppercase;
+    font-size: 11px;
+    color: #B99BB6;
+    text-decoration: none;
+    letter-spacing: 1.5px;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+}
+.more{
+    width: 368px;
+    height: 113px;
+    background-color: #CEB3CB;
+    color: white;
+    padding-left: 23px;
+    box-sizing: border-box;
+    font-family: Cormorant Garamond, serif;
+
+}
+
+.box-1{
+    margin-right: 37px;
+    margin-left: 37px;
+}
+
+.about{
+    font-size: 25px;
+    margin: 23px 0 10px 23px;
+}
+
+.about-1{
+    font-size: 14px;
+    text-decoration: none;
+    margin-left: 23px;
+    color: white;
+}
+
+.container3{
+    box-sizing: border-box;
+    padding: 70px 111px 0 173px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont-1{
+    margin-right: 66px;
+
+
+}
+.cont-1 h3{
+    font-family: Roboto, serif;
+    font-size: 14px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #B99BB6;
+}
+.cont-1 p{
+    width: 481px;
+    font-family: Cormorant Garamond, serif;
+    font-size: 24px;
+    color: #5F4D5D;
+}
+.hr{
+    width: 1100px;
+    height: 1px;
+    background-color: #D7B7D4;
+    margin: 40px 90px 40px 90px;
+}
+.container4{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.cont-3 {
+    margin-left: 93px;
+}
+
+.cont-3 h3{
+    font-family: Roboto, serif;
+    font-size: 14px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #B99BB6;
+}
+
+.cont-3 p{
+    width: 424px;
+    font-family: Cormorant Garamond, serif;
+    font-size: 24px;
+    color: #5F4D5D;
+}
+.container5{
+    box-sizing: border-box;
+    padding: 70px 111px 0 173px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container6{
+    display: flex;
+    justify-content: center;
+    padding-top: 91px;
+}
+.block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.blocked{
+    margin-left: 26px;
+    margin-right: 26px;
+}
+.block-1{
+    font-family: Cormorant Garamond, serif;
+    font-size: 24px;
+    color: #5F4D5D;
+}
+.block-2{
+    font-family: Roboto, serif;
+    font-size: 16px;
+    color: #B0B0B0;
+    margin-top: 0;
+}
+
+.container7{
+    display: flex;
+    justify-content: center;
+    padding-top: 54px;
+    padding-bottom: 75px;
+}
+
+.container8{
+    box-sizing: border-box;
+    width: 1340px;
+    height: 213px;
+    background-color: #D6BBD3;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.box-2{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.box-3{
+    font-family: Cormorant Garamond, serif;
+    font-size: 22px;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.box-4{
+    font-family: Roboto, serif;
+    font-size: 17px;
+    color: #FFFFFF;
+}
+footer{
+    box-sizing: border-box;
+    padding-left: 400px;
+    padding-right: 250px;
+    width: 1340px;
+    height: 137px;
+    background-color: #C9ADC6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer nav ul li a{
+    font-family: Cormorant Garamond, serif;
+    color: white;
+    font-size: 21px;
+}
+
+
